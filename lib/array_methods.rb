@@ -3,9 +3,9 @@ newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
  newarray.include?("wow")
  
- newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
+ newarray2 = ["wow", "I", "am", "really", "learning", "arrays!"]
 
- newarray.include?("dsfsdf")
+ newarray2.include?("dsfsdf")
 
 
 
