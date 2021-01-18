@@ -13,16 +13,16 @@ newarray = ["wow", "these", "arrays!"]
 newarray.reverse
 
 def using_first(array)
-array = ["wow", "these", "arrays!"]
-array.first
+newarray = ["wow", "these", "arrays!"]
+newarray.first
 end
 
 def using_last(array)
-array = ["wow", "these", "arrays!"]
-array.last
+newarray = ["wow", "these", "arrays!"]
+newarray.last
 end
 
 def using_size(array)
-array = ["wow", "these", "arrays!, "are", "so", "crazy"]
-array.last
+newarray = ["wow", "these", "arrays!", "are", "so", "crazy"]
+newarray.last
 end
