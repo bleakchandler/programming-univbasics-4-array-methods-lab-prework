@@ -1,7 +1,8 @@
 def using_include(array, element)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
-newarray.include?("wow")
+return newarray.include?("wow")
+return newarray.include?("Mario")
 
 
 end
