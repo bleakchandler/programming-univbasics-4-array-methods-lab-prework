@@ -2,11 +2,16 @@ def using_include(array, element1)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
  newarray.include?("wow")
+ 
+ newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
+
+ newarray.include?("dsfsdf")
+
 
 
 end
 
-def using_include2(array, element2)
+def using_include(array, element2)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
  newarray.include?("dsfsdf")
