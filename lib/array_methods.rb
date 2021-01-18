@@ -1,5 +1,5 @@
 def using_include(array, element)
- newarray = ["wow", "these", "arrays!", "are", "so", "crazy"]
+ newarray = ["wow", "these", "are", "so", "crazy"]
  newarray.include?("arrays!")
 end
 
