@@ -1,7 +1,7 @@
-def using_include(array, element1)
+def using_include(array, element)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
- newarray.include?("wow")
+ newarray.include?(element)
  
  newarray2 = ["wow", "I", "am", "really", "learning", "arrays!"]
 
