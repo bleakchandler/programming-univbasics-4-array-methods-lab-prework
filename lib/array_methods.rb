@@ -6,6 +6,14 @@ newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 end
 
+def using_include(array, element)
+newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
+
+ newarray.include?("dsfsdf")
+
+
+end
+
 def using_sort(array)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 newarray.sort
