@@ -1,15 +1,15 @@
 def using_include(array, element)
- newarray = ["wow", "these", "arrays!"=
+ newarray = ["wow", "these", "arrays!"}
  newarray.include?("arrays!")
 end
 
 def using_sort(array)
-array = ["wow", "these", "arrays!"]
-array.sort
+newarrayarray = ["wow", "these", "arrays!"]
+newarray.sort
 end
 
 def using_reverse(array)
-array = ["wow", "these", "arrays!"]
+newarray = ["wow", "these", "arrays!"]
 array.reverse
 
 def using_first(array)
