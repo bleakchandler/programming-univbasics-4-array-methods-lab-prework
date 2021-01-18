@@ -6,7 +6,7 @@ newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 end
 
-def using_include(array, element)
+def using_include(array, element2)
 newarray = ["wow", "I", "am", "really", "learning", "arrays!"]
 
  newarray.include?("dsfsdf")
