@@ -24,5 +24,5 @@ end
 
 def using_size(array)
 newarray = ["wow", "these", "arrays!", "are", "so", "crazy"]
-newarray.last
+newarray.size
 end
