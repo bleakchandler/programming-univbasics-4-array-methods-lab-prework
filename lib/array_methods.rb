@@ -11,6 +11,7 @@ end
 def using_reverse(array)
 newarray = ["wow", "these", "arrays!", "are", "so", "crazy"]
 newarray.reverse
+end
 
 def using_first(array)
 newarray = ["wow", "these", "arrays!", "are", "so", "crazy"]
