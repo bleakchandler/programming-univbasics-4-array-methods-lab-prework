@@ -10,7 +10,7 @@ end
 
 def using_reverse(array)
 newarray = ["wow", "these", "arrays!"]
-array.reverse
+newarray.reverse
 
 def using_first(array)
 array = ["wow", "these", "arrays!"]
